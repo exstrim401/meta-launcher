@@ -36,6 +36,12 @@
                     "os": {
                         "name": "osx-arm64"
                     }
+                },
+                {
+                    "action": "disallow",
+                    "os": {
+                        "name": "haiku"
+                    }
                 }
             ]
         },
@@ -91,6 +97,12 @@
                     "os": {
                         "name": "osx-arm64"
                     }
+                },
+                {
+                    "action": "disallow",
+                    "os": {
+                        "name": "haiku"
+                    }
                 }
             ]
         },
@@ -123,6 +135,12 @@
                     "action": "disallow",
                     "os": {
                         "name": "osx-arm64"
+                    }
+                },
+                {
+                    "action": "disallow",
+                    "os": {
+                        "name": "haiku"
                     }
                 }
             ]
@@ -179,6 +197,12 @@
                     "os": {
                         "name": "osx-arm64"
                     }
+                },
+                {
+                    "action": "disallow",
+                    "os": {
+                        "name": "haiku"
+                    }
                 }
             ]
         },
@@ -211,6 +235,12 @@
                     "action": "disallow",
                     "os": {
                         "name": "osx-arm64"
+                    }
+                },
+                {
+                    "action": "disallow",
+                    "os": {
+                        "name": "haiku"
                     }
                 }
             ]
@@ -267,6 +297,12 @@
                     "os": {
                         "name": "osx-arm64"
                     }
+                },
+                {
+                    "action": "disallow",
+                    "os": {
+                        "name": "haiku"
+                    }
                 }
             ]
         },
@@ -299,6 +335,12 @@
                     "action": "disallow",
                     "os": {
                         "name": "osx-arm64"
+                    }
+                },
+                {
+                    "action": "disallow",
+                    "os": {
+                        "name": "haiku"
                     }
                 }
             ]
@@ -355,6 +397,12 @@
                     "os": {
                         "name": "osx-arm64"
                     }
+                },
+                {
+                    "action": "disallow",
+                    "os": {
+                        "name": "haiku"
+                    }
                 }
             ]
         },
@@ -387,6 +435,12 @@
                     "action": "disallow",
                     "os": {
                         "name": "osx-arm64"
+                    }
+                },
+                {
+                    "action": "disallow",
+                    "os": {
+                        "name": "haiku"
                     }
                 }
             ]
@@ -443,6 +497,12 @@
                     "os": {
                         "name": "osx-arm64"
                     }
+                },
+                {
+                    "action": "disallow",
+                    "os": {
+                        "name": "haiku"
+                    }
                 }
             ]
         },
@@ -475,6 +535,12 @@
                     "action": "disallow",
                     "os": {
                         "name": "osx-arm64"
+                    }
+                },
+                {
+                    "action": "disallow",
+                    "os": {
+                        "name": "haiku"
                     }
                 }
             ]
@@ -530,6 +596,12 @@
                     "action": "disallow",
                     "os": {
                         "name": "osx-arm64"
+                    }
+                },
+                {
+                    "action": "disallow",
+                    "os": {
+                        "name": "haiku"
                     }
                 }
             ]
@@ -622,6 +694,26 @@
                     "action": "allow",
                     "os": {
                         "name": "linux-arm32"
+                    }
+                }
+            ]
+        },
+        {
+            "downloads": {
+                "artifact": {
+                    "sha1": "8ef00c6339562ccb91e0c847412712794cac8f12",
+                    "size": 109083,
+                    "url": "https://github.com/exstrim401/lwjgl-haiku/raw/104e6c0dbf742dbab7d67ba804ffbdf5bff69ac0/lwjgl-glfw/lwjgl-glfw.jar"
+                },
+                "classifiers": {}
+            },
+            "name": "org.lwjgl:lwjgl-glfw:3.2.2-haiku.1",
+            "natives": {},
+            "rules": [
+                {
+                    "action": "allow",
+                    "os": {
+                        "name": "haiku"
                     }
                 }
             ]
@@ -905,6 +997,26 @@
         {
             "downloads": {
                 "artifact": {
+                    "sha1": "c10e67040b4d1585e04788330d600640034660bd",
+                    "size": 79915,
+                    "url": "https://github.com/exstrim401/lwjgl-haiku/raw/104e6c0dbf742dbab7d67ba804ffbdf5bff69ac0/lwjgl-openal/lwjgl-openal.jar"
+                },
+                "classifiers": {}
+            },
+            "name": "org.lwjgl:lwjgl-openal:3.2.2-haiku.1",
+            "natives": {},
+            "rules": [
+                {
+                    "action": "allow",
+                    "os": {
+                        "name": "haiku"
+                    }
+                }
+            ]
+        },
+        {
+            "downloads": {
+                "artifact": {
                     "sha1": "d48e753d85916fc8a200ccddc709b36e3865cc4e",
                     "size": 88880,
                     "url": "https://github.com/MinecraftMachina/lwjgl3/releases/download/3.3.1-mmachina.1/lwjgl-openal.jar"
@@ -1036,6 +1148,34 @@
                     "action": "allow",
                     "os": {
                         "name": "linux-arm32"
+                    }
+                }
+            ]
+        },
+        {
+            "downloads": {
+                "artifact": {
+                    "sha1": "df1f85460b7513671240f7b654de20d29f10bc67",
+                    "size": 940571,
+                    "url": "https://github.com/exstrim401/lwjgl-haiku/raw/104e6c0dbf742dbab7d67ba804ffbdf5bff69ac0/lwjgl-opengl/lwjgl-opengl.jar"
+                },
+                "classifiers": {
+                    "natives-haiku": {
+                        "sha1": "7a66ac167a68316fc33a95fd7eca6091ae0e9ba8j",
+                        "size": 63054,
+                        "url": "https://github.com/exstrim401/lwjgl-haiku/raw/104e6c0dbf742dbab7d67ba804ffbdf5bff69ac0/lwjgl-opengl/lwjgl-opengl-natives-haiku.jar"
+                    }
+                }
+            },
+            "name": "org.lwjgl:lwjgl-opengl:3.2.2-haiku.1",
+            "natives": {
+                "haiku": "natives-haiku"
+            },
+            "rules": [
+                {
+                    "action": "allow",
+                    "os": {
+                        "name": "haiku"
                     }
                 }
             ]
@@ -1181,6 +1321,34 @@
         {
             "downloads": {
                 "artifact": {
+                    "sha1": "af402399daf7281fc65fa5e9bb2a8b3cd4d2c40e",
+                    "size": 104893,
+                    "url": "https://github.com/exstrim401/lwjgl-haiku/raw/104e6c0dbf742dbab7d67ba804ffbdf5bff69ac0/lwjgl-stb/lwjgl-stb.jar"
+                },
+                "classifiers": {
+                    "natives-haiku": {
+                        "sha1": "197505268f499a14bceee39201c8e80537152e98",
+                        "size": 212547,
+                        "url": "https://github.com/exstrim401/lwjgl-haiku/raw/104e6c0dbf742dbab7d67ba804ffbdf5bff69ac0/lwjgl-stb/lwjgl-stb-natives-haiku.jar"
+                    }
+                }
+            },
+            "name": "org.lwjgl:lwjgl-stb:3.2.2-haiku.1",
+            "natives": {
+                "haiku": "natives-haiku"
+            },
+            "rules": [
+                {
+                    "action": "allow",
+                    "os": {
+                        "name": "haiku"
+                    }
+                }
+            ]
+        },
+        {
+            "downloads": {
+                "artifact": {
                     "sha1": "703e4b533e2542560e9f94d6d8bd148be1c1d572",
                     "size": 113273,
                     "url": "https://github.com/MinecraftMachina/lwjgl3/releases/download/3.3.1-mmachina.1/lwjgl-stb.jar"
@@ -1254,6 +1422,12 @@
                     "os": {
                         "name": "osx-arm64"
                     }
+                },
+                {
+                    "action": "disallow",
+                    "os": {
+                        "name": "haiku"
+                    }
                 }
             ]
         },
@@ -1308,6 +1482,12 @@
                     "action": "disallow",
                     "os": {
                         "name": "osx-arm64"
+                    }
+                },
+                {
+                    "action": "disallow",
+                    "os": {
+                        "name": "haiku"
                     }
                 }
             ]
@@ -1400,6 +1580,34 @@
                     "action": "allow",
                     "os": {
                         "name": "linux-arm32"
+                    }
+                }
+            ]
+        },
+        {
+            "downloads": {
+                "artifact": {
+                    "sha1": "5e8425f12d961b0f158bea5542b785813195c172",
+                    "size": 323183,
+                    "url": "https://github.com/theofficialgman/lwjgl3-binaries-arm32/raw/lwjgl-3.2.2/lwjgl-core.jar"
+                },
+                "classifiers": {
+                    "natives-haiku": {
+                        "sha1": "a802f550e9dbdd3fa50cc9cab45f85d7696cc4cf",
+                        "size": 104830,
+                        "url": "https://github.com/theofficialgman/lwjgl3-binaries-arm32/raw/lwjgl-3.2.2/lwjgl-natives-linux-arm32.jar"
+                    }
+                }
+            },
+            "name": "org.lwjgl:lwjgl:3.2.2-haiku.1",
+            "natives": {
+                "haiku": "natives-haiku"
+            },
+            "rules": [
+                {
+                    "action": "allow",
+                    "os": {
+                        "name": "haiku"
                     }
                 }
             ]
@@ -1538,6 +1746,34 @@
                     "action": "allow",
                     "os": {
                         "name": "linux-arm32"
+                    }
+                }
+            ]
+        },
+        {
+            "downloads": {
+                "artifact": {
+                    "sha1": "61690606d5fd3cc8857374fcb1eb0cd068099986",
+                    "size": 6607,
+                    "url": "https://github.com/exstrim401/lwjgl-haiku/raw/104e6c0dbf742dbab7d67ba804ffbdf5bff69ac0/lwjgl-tinyfd/lwjgl-tinyfd.jar"
+                },
+                "classifiers": {
+                    "natives-haiku": {
+                        "sha1": "e3250f1494894597f5e3a0eea806f5b90d71cc3f",
+                        "size": 41590,
+                        "url": "https://github.com/exstrim401/lwjgl-haiku/raw/104e6c0dbf742dbab7d67ba804ffbdf5bff69ac0/lwjgl-tinyfd/lwjgl-tinyfd-natives-haiku.jar"
+                    }
+                }
+            },
+            "name": "org.lwjgl:lwjgl-tinyfd:3.2.2-haiku.1",
+            "natives": {
+                "haiku": "natives-haiku"
+            },
+            "rules": [
+                {
+                    "action": "allow",
+                    "os": {
+                        "name": "haiku"
                     }
                 }
             ]

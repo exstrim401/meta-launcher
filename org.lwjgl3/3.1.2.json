@@ -1188,6 +1188,24 @@
                     "sha1": "df1f85460b7513671240f7b654de20d29f10bc67",
                     "size": 940571,
                     "url": "https://github.com/exstrim401/lwjgl-haiku/raw/104e6c0dbf742dbab7d67ba804ffbdf5bff69ac0/lwjgl-opengl/lwjgl-opengl.jar"
+                }
+            },
+            "name": "org.lwjgl:lwjgl-opengl:3.2.2-haiku.1",
+            "rules": [
+                {
+                    "action": "allow",
+                    "os": {
+                        "name": "haiku"
+                    }
+                }
+            ]
+        },
+        {
+            "downloads": {
+                "artifact": {
+                    "sha1": "df1f85460b7513671240f7b654de20d29f10bc67",
+                    "size": 940571,
+                    "url": "https://github.com/exstrim401/lwjgl-haiku/raw/104e6c0dbf742dbab7d67ba804ffbdf5bff69ac0/lwjgl-opengl/lwjgl-opengl.jar"
                 },
                 "classifiers": {
                     "natives-haiku": {
@@ -1354,6 +1372,24 @@
                     "sha1": "af402399daf7281fc65fa5e9bb2a8b3cd4d2c40e",
                     "size": 104893,
                     "url": "https://github.com/exstrim401/lwjgl-haiku/raw/104e6c0dbf742dbab7d67ba804ffbdf5bff69ac0/lwjgl-stb/lwjgl-stb.jar"
+                }
+            },
+            "name": "org.lwjgl:lwjgl-stb:3.2.2-haiku.1",
+            "rules": [
+                {
+                    "action": "allow",
+                    "os": {
+                        "name": "haiku"
+                    }
+                }
+            ]
+        },
+        {
+            "downloads": {
+                "artifact": {
+                    "sha1": "af402399daf7281fc65fa5e9bb2a8b3cd4d2c40e",
+                    "size": 104893,
+                    "url": "https://github.com/exstrim401/lwjgl-haiku/raw/104e6c0dbf742dbab7d67ba804ffbdf5bff69ac0/lwjgl-stb/lwjgl-stb.jar"
                 },
                 "classifiers": {
                     "natives-haiku": {
@@ -1510,6 +1546,24 @@
                     "action": "allow",
                     "os": {
                         "name": "linux-arm32"
+                    }
+                }
+            ]
+        },
+        {
+            "downloads": {
+                "artifact": {
+                    "sha1": "5e8425f12d961b0f158bea5542b785813195c172",
+                    "size": 323183,
+                    "url": "https://github.com/exstrim401/lwjgl-haiku/raw/104e6c0dbf742dbab7d67ba804ffbdf5bff69ac0/lwjgl/lwjgl.jar"
+                }
+            },
+            "name": "org.lwjgl:lwjgl:3.2.2-haiku.1",
+            "rules": [
+                {
+                    "action": "allow",
+                    "os": {
+                        "name": "haiku"
                     }
                 }
             ]

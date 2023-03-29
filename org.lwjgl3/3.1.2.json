@@ -1519,13 +1519,13 @@
                 "artifact": {
                     "sha1": "5e8425f12d961b0f158bea5542b785813195c172",
                     "size": 323183,
-                    "url": "https://github.com/theofficialgman/lwjgl3-binaries-arm32/raw/lwjgl-3.2.2/lwjgl-core.jar"
+                    "url": "https://github.com/exstrim401/lwjgl-haiku/raw/104e6c0dbf742dbab7d67ba804ffbdf5bff69ac0/lwjgl/lwjgl.jar"
                 },
                 "classifiers": {
                     "natives-haiku": {
                         "sha1": "a802f550e9dbdd3fa50cc9cab45f85d7696cc4cf",
                         "size": 104830,
-                        "url": "https://github.com/theofficialgman/lwjgl3-binaries-arm32/raw/lwjgl-3.2.2/lwjgl-natives-linux-arm32.jar"
+                        "url": "https://github.com/exstrim401/lwjgl-haiku/raw/104e6c0dbf742dbab7d67ba804ffbdf5bff69ac0/lwjgl/lwjgl-natives-haiku.jar"
                     }
                 }
             },

@@ -731,13 +731,13 @@
         {
             "downloads": {
                 "artifact": {
-                    "sha1": "8ef00c6339562ccb91e0c847412712794cac8f12",
-                    "size": 109083,
-                    "url": "https://github.com/exstrim401/lwjgl-haiku/raw/104e6c0dbf742dbab7d67ba804ffbdf5bff69ac0/lwjgl-glfw/lwjgl-glfw.jar"
+                    "sha1": "e42369eff88e5afd3e641e26f73730f9f9e4e31e",
+                    "size": 130034,
+                    "url": "https://haikuware.ru/files/lwjgl3/lwjgl-3.3.2-haiku-x64/lwjgl-glfw/lwjgl-glfw.jar"
                 },
                 "classifiers": {}
             },
-            "name": "org.lwjgl:lwjgl-glfw:3.2.2-haiku.1",
+            "name": "org.lwjgl:lwjgl-glfw:3.3.2-haiku.1",
             "natives": {},
             "rules": [
                 {
@@ -1027,13 +1027,13 @@
         {
             "downloads": {
                 "artifact": {
-                    "sha1": "c10e67040b4d1585e04788330d600640034660bd",
-                    "size": 79915,
-                    "url": "https://github.com/exstrim401/lwjgl-haiku/raw/104e6c0dbf742dbab7d67ba804ffbdf5bff69ac0/lwjgl-openal/lwjgl-openal.jar"
+                    "sha1": "629e0fdf84d2159426ebfd12449b15fa3109542a",
+                    "size": 102462,
+                    "url": "https://haikuware.ru/files/lwjgl3/lwjgl-3.3.2-haiku-x64/lwjgl-openal/lwjgl-openal.jar"
                 },
                 "classifiers": {}
             },
-            "name": "org.lwjgl:lwjgl-openal:3.2.2-haiku.1",
+            "name": "org.lwjgl:lwjgl-openal:3.3.2-haiku.1",
             "natives": {},
             "rules": [
                 {
@@ -1185,12 +1185,12 @@
         {
             "downloads": {
                 "artifact": {
-                    "sha1": "df1f85460b7513671240f7b654de20d29f10bc67",
-                    "size": 940571,
-                    "url": "https://github.com/exstrim401/lwjgl-haiku/raw/104e6c0dbf742dbab7d67ba804ffbdf5bff69ac0/lwjgl-opengl/lwjgl-opengl.jar"
+                    "sha1": "a6ecd44ae669085f8b15b074ce49afcffa984327",
+                    "size": 930868,
+                    "url": "https://haikuware.ru/files/lwjgl3/lwjgl-3.3.2-haiku-x64/lwjgl-opengl/lwjgl-opengl.jar"
                 }
             },
-            "name": "org.lwjgl:lwjgl-opengl:3.2.2-haiku.1",
+            "name": "org.lwjgl:lwjgl-opengl:3.3.2-haiku.1",
             "rules": [
                 {
                     "action": "allow",
@@ -1203,19 +1203,19 @@
         {
             "downloads": {
                 "artifact": {
-                    "sha1": "df1f85460b7513671240f7b654de20d29f10bc67",
-                    "size": 940571,
-                    "url": "https://github.com/exstrim401/lwjgl-haiku/raw/104e6c0dbf742dbab7d67ba804ffbdf5bff69ac0/lwjgl-opengl/lwjgl-opengl.jar"
+                    "sha1": "a6ecd44ae669085f8b15b074ce49afcffa984327",
+                    "size": 930868,
+                    "url": "https://haikuware.ru/files/lwjgl3/lwjgl-3.3.2-haiku-x64/lwjgl-opengl/lwjgl-opengl.jar"
                 },
                 "classifiers": {
                     "natives-haiku": {
-                        "sha1": "7a66ac167a68316fc33a95fd7eca6091ae0e9ba8j",
-                        "size": 63054,
-                        "url": "https://github.com/exstrim401/lwjgl-haiku/raw/104e6c0dbf742dbab7d67ba804ffbdf5bff69ac0/lwjgl-opengl/lwjgl-opengl-natives-haiku.jar"
+                        "sha1": "a1ee3d3f73273d96b276d84f9a8e66f3dd887666",
+                        "size": 73796,
+                        "url": "https://haikuware.ru/files/lwjgl3/lwjgl-3.3.2-haiku-x64/lwjgl-opengl/lwjgl-opengl-natives-haiku.jar"
                     }
                 }
             },
-            "name": "org.lwjgl:lwjgl-opengl:3.2.2-haiku.1",
+            "name": "org.lwjgl:lwjgl-opengl:3.3.2-haiku.1",
             "natives": {
                 "haiku": "natives-haiku"
             },
@@ -1369,12 +1369,12 @@
         {
             "downloads": {
                 "artifact": {
-                    "sha1": "af402399daf7281fc65fa5e9bb2a8b3cd4d2c40e",
-                    "size": 104893,
-                    "url": "https://github.com/exstrim401/lwjgl-haiku/raw/104e6c0dbf742dbab7d67ba804ffbdf5bff69ac0/lwjgl-stb/lwjgl-stb.jar"
+                    "sha1": "c94ab27eed27fbe6c8e08f5d15fd0be9abafc6b7",
+                    "size": 114138,
+                    "url": "https://haikuware.ru/files/lwjgl3/lwjgl-3.3.2-haiku-x64/lwjgl-stb/lwjgl-stb.jar"
                 }
             },
-            "name": "org.lwjgl:lwjgl-stb:3.2.2-haiku.1",
+            "name": "org.lwjgl:lwjgl-stb:3.3.2-haiku.1",
             "rules": [
                 {
                     "action": "allow",
@@ -1387,19 +1387,19 @@
         {
             "downloads": {
                 "artifact": {
-                    "sha1": "af402399daf7281fc65fa5e9bb2a8b3cd4d2c40e",
-                    "size": 104893,
-                    "url": "https://github.com/exstrim401/lwjgl-haiku/raw/104e6c0dbf742dbab7d67ba804ffbdf5bff69ac0/lwjgl-stb/lwjgl-stb.jar"
+                    "sha1": "c94ab27eed27fbe6c8e08f5d15fd0be9abafc6b7",
+                    "size": 114138,
+                    "url": "https://haikuware.ru/files/lwjgl3/lwjgl-3.3.2-haiku-x64/lwjgl-stb/lwjgl-stb.jar"
                 },
                 "classifiers": {
                     "natives-haiku": {
-                        "sha1": "197505268f499a14bceee39201c8e80537152e98",
-                        "size": 212547,
-                        "url": "https://github.com/exstrim401/lwjgl-haiku/raw/104e6c0dbf742dbab7d67ba804ffbdf5bff69ac0/lwjgl-stb/lwjgl-stb-natives-haiku.jar"
+                        "sha1": "9c1c936a54ad77c79157e3d0eb2c8676481b5dcd",
+                        "size": 217971,
+                        "url": "https://haikuware.ru/files/lwjgl3/lwjgl-3.3.2-haiku-x64/lwjgl-stb/lwjgl-stb-natives-haiku.jar"
                     }
                 }
             },
-            "name": "org.lwjgl:lwjgl-stb:3.2.2-haiku.1",
+            "name": "org.lwjgl:lwjgl-stb:3.3.2-haiku.1",
             "natives": {
                 "haiku": "natives-haiku"
             },
@@ -1553,12 +1553,12 @@
         {
             "downloads": {
                 "artifact": {
-                    "sha1": "5e8425f12d961b0f158bea5542b785813195c172",
-                    "size": 323183,
-                    "url": "https://github.com/exstrim401/lwjgl-haiku/raw/104e6c0dbf742dbab7d67ba804ffbdf5bff69ac0/lwjgl/lwjgl.jar"
+                    "sha1": "ed39abe649193abbba295b3ee3aa5e0d477ebf6b",
+                    "size": 851481,
+                    "url": "https://haikuware.ru/files/lwjgl3/lwjgl-3.3.2-haiku-x64/lwjgl/lwjgl.jar"
                 }
             },
-            "name": "org.lwjgl:lwjgl:3.2.2-haiku.1",
+            "name": "org.lwjgl:lwjgl:3.3.2-haiku.1",
             "rules": [
                 {
                     "action": "allow",
@@ -1571,19 +1571,19 @@
         {
             "downloads": {
                 "artifact": {
-                    "sha1": "5e8425f12d961b0f158bea5542b785813195c172",
-                    "size": 323183,
-                    "url": "https://github.com/exstrim401/lwjgl-haiku/raw/104e6c0dbf742dbab7d67ba804ffbdf5bff69ac0/lwjgl/lwjgl.jar"
+                    "sha1": "ed39abe649193abbba295b3ee3aa5e0d477ebf6b",
+                    "size": 851481,
+                    "url": "https://haikuware.ru/files/lwjgl3/lwjgl-3.3.2-haiku-x64/lwjgl/lwjgl.jar"
                 },
                 "classifiers": {
                     "natives-haiku": {
-                        "sha1": "a802f550e9dbdd3fa50cc9cab45f85d7696cc4cf",
-                        "size": 104830,
-                        "url": "https://github.com/exstrim401/lwjgl-haiku/raw/104e6c0dbf742dbab7d67ba804ffbdf5bff69ac0/lwjgl/lwjgl-natives-haiku.jar"
+                        "sha1": "2b6af11ea831535a09dfc6152c2d6f0482a140e1",
+                        "size": 100010,
+                        "url": "https://haikuware.ru/files/lwjgl3/lwjgl-3.3.2-haiku-x64/lwjgl/lwjgl-natives-haiku.jar"
                     }
                 }
             },
-            "name": "org.lwjgl:lwjgl:3.2.2-haiku.1",
+            "name": "org.lwjgl:lwjgl:3.3.2-haiku.1",
             "natives": {
                 "haiku": "natives-haiku"
             },
